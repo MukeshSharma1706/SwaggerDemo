@@ -1,5 +1,5 @@
 package com.swaggerdemo.swaggerdemo.model;
-
+//POJO
 public class Student {
     public Integer id;
     private String name;
